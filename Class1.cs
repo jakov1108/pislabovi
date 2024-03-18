@@ -8,5 +8,6 @@ namespace pis
 {
     internal class Class1
     {
+        //komentar
     }
 }
